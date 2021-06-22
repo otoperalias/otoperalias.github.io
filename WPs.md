@@ -1,4 +1,4 @@
-# Working papers
+#  <span style="color:steelblue"> Working papers </span>
 
 [**Delegation of Governmental Authority in Historical Perspective: Lordships, State Capacity and Development**](https://osf.io/preprints/socarxiv/k8mzr/). 2018.
 
