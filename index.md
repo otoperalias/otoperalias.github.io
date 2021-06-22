@@ -18,7 +18,7 @@ Universidad Pablo de Olavide (Seville)
 
 * [Working papers](https://otoperalias.github.io/WPs)
 
-* [Other]((https://otoperalias.github.io/Other)
+* [Other](https://otoperalias.github.io/Other)
 
 <br/><br/>
 
