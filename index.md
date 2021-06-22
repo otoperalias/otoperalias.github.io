@@ -8,7 +8,7 @@ Universidad Pablo de Olavide (Seville)
 
 [Google Scholar profile](https://scholar.google.co.uk/citations?user=AUO5R7QAAAAJ&hl=en)
 
-#### 
+<br/><br/>
 
 #### Research
 
@@ -18,7 +18,7 @@ Universidad Pablo de Olavide (Seville)
 
 * Other
 
-#### 
+<br/><br/>
 
 #### Contact:
 
