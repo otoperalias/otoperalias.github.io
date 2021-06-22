@@ -10,9 +10,9 @@ Universidad Pablo de Olavide (Seville)
 
 [Google Scholar profile](https://scholar.google.co.uk/citations?user=AUO5R7QAAAAJ&hl=en) - -  [GitHub profile](https://github.com/otoperalias)
 
-<br/><br/>
 
-#### Research
+
+#### RESEARCH
 
 * [Publications](https://otoperalias.github.io/Publications)
 
@@ -20,14 +20,14 @@ Universidad Pablo de Olavide (Seville)
 
 * [Other](https://otoperalias.github.io/Other)
 
-<br/><br/>
 
-#### Contact:
+
+#### CONTACT
 
 &nbsp;&nbsp; Email: [<u>otoperalias@gmail.com</u>](mailto:otoperalias@gmail.com)
 
-&nbsp;&nbsp;Twitter: [@OtoPeralias](https://twitter.com/OtoPeralias)
+&nbsp;&nbsp; Twitter: [@OtoPeralias](https://twitter.com/OtoPeralias)
 
-&nbsp;&nbsp;Universidad Pablo de Olavide; Ctra. de Utrera, Km. 1, 41013 Seville, Spain
+&nbsp;&nbsp; Universidad Pablo de Olavide; Ctra. de Utrera, Km. 1, 41013 Seville, Spain
 
 
