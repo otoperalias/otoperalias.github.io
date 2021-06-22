@@ -1,4 +1,4 @@
-# Publications
+# <span style="color:steelblue"> Publications </span>
 
 [**Ancient Colonialism and the Economic Geography of the Mediterranean**](https://academic.oup.com/joeg/advance-article/doi/10.1093/jeg/lbaa028/6043095?guestAccessKey=5df7fe12-7201-488b-a282-a9b02ee0a328) (with Chronopoulos, D., Kampanelis, S., and Wilson, J.) 2021. ***Journal of Economic Geography***, lbaa028.
 
@@ -6,7 +6,7 @@
 
 [**Frontiers, Warfare and Economic Geography: The Case of Spain**](https://doi.org/10.1016/j.jdeveco.2020.102511). ***Journal of Development Economics***. 2020, 146, 102511. ([SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2930860)).
 
-* Dissemination: [Twitter thread](https://twitter.com/OtoPeralias/status/1270290096105938946), [RES](http://www.google.com/url?q=http%3A%2F%2Fgoog_1076018106&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFC_XE2b4ATcGt4ke--k7j85-fgzg)[media briefings](https://www.res.org.uk/resources-page/medieval-origins-of-spain--s-economic-geography.html), [The Long Run (the EHS blog)](https://ehsthelongrun.net/2018/05/22/medieval-origins-of-spains-economic-geography/), [Nada Es Gratis](https://nadaesgratis.es/admin/las-raices-historicas-de-los-patrones-de-poblamiento-en-espana), [NIUS Diario](https://www.niusdiario.es/sociedad/anomalia-europea-espana-vacia-origen-reconquista-causa-poblacion-baja-densidad_18_3006420026.html), [La Voz de Asturias](https://www.lavozdeasturias.es/noticia/asturias/2020/09/18/influyo-reconquista-densidad-poblacion-asturias/00031600450243951465609.htm).
+* Dissemination: [Twitter thread](https://twitter.com/OtoPeralias/status/1270290096105938946), [RESmedia briefings](https://www.res.org.uk/resources-page/medieval-origins-of-spain--s-economic-geography.html), [The Long Run (the EHS blog)](https://ehsthelongrun.net/2018/05/22/medieval-origins-of-spains-economic-geography/), [Nada Es Gratis](https://nadaesgratis.es/admin/las-raices-historicas-de-los-patrones-de-poblamiento-en-espana), [NIUS Diario](https://www.niusdiario.es/sociedad/anomalia-europea-espana-vacia-origen-reconquista-causa-poblacion-baja-densidad_18_3006420026.html), [La Voz de Asturias](https://www.lavozdeasturias.es/noticia/asturias/2020/09/18/influyo-reconquista-densidad-poblacion-asturias/00031600450243951465609.htm).
 
 [**What Do Street Names Tell Us? The 'City-Text' as Socio-Cultural Data**](https://doi.org/10.1093/jeg/lbx030). ***Journal of Economic Geography***, 2018, 18 (1): 187–211.  
 
@@ -16,9 +16,9 @@
 
 [**Historical Frontiers and the Rise of Inequality. The Case of the Frontier of Granada**](https://doi.org/10.1093/jeea/jvw004)” (with Romero-Ávila D.), ***Journal of the European Economic Association***, 2017, 15 (1): 54-98.
 
-* Dissemination: [IDEAL.es](https://www.ideal.es/granada/201702/16/estudio-dice-frontera-reino-20170216181445.html), [Granada Hoy]([La desigual herencia del Reino Nazarí](https://www.granadahoy.com/vivir/desigual-herencia-BReino-NazariB_0_1112588801.html)), [La Vanguardia](https://www.lavanguardia.com/local/sevilla/20170216/4273534379/estudio-constata-frontera-reino-de-granada-genero-desigualdades-en-andalucia.html), [Expansión](https://drive.google.com/file/d/17oZomPe-HTcHzFBLk7JRmagiX4Oq5vSj/view?usp=sharing), [AULA MAGNA](https://www.aulamagna.com.es/analizan-los-efectos-de-la-frontera-de-granada/).
+* Dissemination: [IDEAL.es](https://www.ideal.es/granada/201702/16/estudio-dice-frontera-reino-20170216181445.html), [Granada Hoy](https://www.granadahoy.com/vivir/desigual-herencia-BReino-NazariB_0_1112588801.html), [La Vanguardia](https://www.lavanguardia.com/local/sevilla/20170216/4273534379/estudio-constata-frontera-reino-de-granada-genero-desigualdades-en-andalucia.html), [Expansión](https://drive.google.com/file/d/17oZomPe-HTcHzFBLk7JRmagiX4Oq5vSj/view?usp=sharing), [AULA MAGNA](https://www.aulamagna.com.es/analizan-los-efectos-de-la-frontera-de-granada/).
 
-[**The Consequences of Persistent Inequality on Social Capital: A Municipal-Level Analysis of Blood Donation Data**](https://doi.org/10.1016/j.econlet.2016.11.037 "Persistent link using digital object identifier) (with Romero-Ávila D.), ***Economics Letters***, 2017, 151: 53-57. ([SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2876530)).
+[**The Consequences of Persistent Inequality on Social Capital: A Municipal-Level Analysis of Blood Donation Data**](https://doi.org/10.1016/j.econlet.2016.11.037) (with Romero-Ávila D.), ***Economics Letters***, 2017, 151: 53-57. ([SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2876530)).
 
 * Dissemination: [NadaEsGratis](https://nadaesgratis.es/admin/desigualdad-y-capital-social)
 
@@ -28,10 +28,10 @@
 
 [**The Long-term Effects of Political Violence on Political Attitudes: Evidence from the Spanish Civil War**](https://doi.org/10.1111/kykl.12089)”, ***Kyklos***, 2015, 68 (3), 412–442 ([SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2597118)).
 
-[**The Distribution of Legal Traditions around the World: A Contribution to the Legal Origins Theory**](https://www.jstor.org/stable/10.1086/676556)” (with Romero-Ávila D.), ***Journal of Law and Economics***, 2014, 57 (3), 561-628. ([Link to the accepted manuscript)]([The distribution of legal traditions around the world : A contribution to the legal-origins theory](https://research-repository.st-andrews.ac.uk/handle/10023/7408)).
+[**The Distribution of Legal Traditions around the World: A Contribution to the Legal Origins Theory**](https://www.jstor.org/stable/10.1086/676556)” (with Romero-Ávila D.), ***Journal of Law and Economics***, 2014, 57 (3), 561-628. ([Link to the accepted manuscript)](https://research-repository.st-andrews.ac.uk/handle/10023/7408).
 
-[**Legal Traditions and Initial Endowments in Shaping the Path of Financial Development**]([Legal Traditions and Initial Endowments in Shaping the Path of Financial Development - OTO‐PERALÍAS - 2014 - Journal of Money, Credit and Banking - Wiley Online Library](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jmcb.12097))” (with Romero-Ávila D.), ***Journal of Money, Credit and Banking***, 2014, 46 (1), 43-77.
+[**Legal Traditions and Initial Endowments in Shaping the Path of Financial Development**](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jmcb.12097)” (with Romero-Ávila D.), ***Journal of Money, Credit and Banking***, 2014, 46 (1), 43-77.
 
-[**Does Fiscal Decentralization Mitigate the Adverse Effects of Corruption on Public Deficits?**]([Redirecting](https://doi.org/10.1016/j.ejpoleco.2013.07.005 "Persistent link using digital object identifier")) (with Romero-Ávila D. and Usabiaga, C.), ***European Journal of Political Economy***, 2013, 32, 205-231.
+[**Does Fiscal Decentralization Mitigate the Adverse Effects of Corruption on Public Deficits?**](https://doi.org/10.1016/j.ejpoleco.2013.07.005 "Persistent link using digital object identifier") (with Romero-Ávila D. and Usabiaga, C.), ***European Journal of Political Economy***, 2013, 32, 205-231.
 
-[**Tracing the Link between Government Size and Growth: The Role of Public Sector Quality**]([Tracing the Link between Government Size and Growth: The Role of Public Sector Quality - Oto‐Peralías - 2013 - Kyklos - Wiley Online Library](https://doi.org/10.1111/kykl.12019)) (with Romero-Ávila D.), ***Kyklos***, 2013, 66 (2), 229-255.
+[**Tracing the Link between Government Size and Growth: The Role of Public Sector Quality**](https://doi.org/10.1111/kykl.12019) (with Romero-Ávila D.), ***Kyklos***, 2013, 66 (2), 229-255.
