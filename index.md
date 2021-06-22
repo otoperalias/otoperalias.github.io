@@ -1,6 +1,8 @@
 
 
 
+#### Daniel Oto-Peralías
+
 Associate Professor
 
 Department of Economics
@@ -13,7 +15,7 @@ Universidad Pablo de Olavide (Seville)
 
 #### Research
 
-* [**Publications**](otoperalias.github.io/Publications)
+* [**Publications**](https://otoperalias.github.io/Publications)
 
 * Working papers
 
