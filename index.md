@@ -32,6 +32,6 @@ Universidad Pablo de Olavide (Seville)
 
 
 
-![UPO](C:\Users\danie\Dropbox\PAPERWORK\OTROS\MyWeb\logo.jpg_1690923411.jpg)
+![UPO](https://github.com/otoperalias/otoperalias.github.io/blob/f46dbcff92378aacb3b6a8908eb8949b46a2cdff/logo.jpg_1690923411.jpg)
 
 
