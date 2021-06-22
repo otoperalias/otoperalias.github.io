@@ -14,11 +14,11 @@ Universidad Pablo de Olavide (Seville)
 
 #### Research
 
-* <span style="color:blue">[**Publications**](https://otoperalias.github.io/Publications)</span>
+* [Publications](https://otoperalias.github.io/Publications)
 
-* Working papers
+* [Working papers](https://otoperalias.github.io/WPs)
 
-* Other
+* [Other]((https://otoperalias.github.io/Other)
 
 <br/><br/>
 
