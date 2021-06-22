@@ -8,7 +8,7 @@ Department of Economics
 
 Universidad Pablo de Olavide (Seville)
 
-[Google Scholar profile](https://scholar.google.co.uk/citations?user=AUO5R7QAAAAJ&hl=en)
+[Google Scholar profile](https://scholar.google.co.uk/citations?user=AUO5R7QAAAAJ&hl=en) | [GitHub Profile](https://github.com/otoperalias)
 
 <br/><br/>
 
