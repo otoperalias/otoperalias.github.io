@@ -2,11 +2,10 @@
 
 [**Delegation of Governmental Authority in Historical Perspective: Lordships, State Capacity and Development**](https://osf.io/preprints/socarxiv/k8mzr/). 2018.
 
-+ Supplementary Material I: [Extended Historical and Institutional Background](https://mfr.osf.io/render?url=https://osf.io/nksyr/?action=download%26mode=render)
-
-+ Supplementary Material II: [18th-century Spain: A dataset of political institutions and socio-economic variables at the local level](https://mfr.osf.io/render?url=https://osf.io/596tn/?action=download%26mode=render)
-
-+ Supplementary Material III: [Variables’ descriptions and Robustness Checks]([PDF.js viewer](https://mfr.osf.io/render?url=https://osf.io/chk67/?action=download%26mode=render))
+* Supplementary Material:
+   * SM I: [Extended Historical and Institutional Background](https://mfr.osf.io/render?url=https://osf.io/nksyr/?action=download%26mode=render)
+   * SM I: [18th-century Spain: A dataset of political institutions and socio-economic variables at the local level](https://mfr.osf.io/render?url=https://osf.io/596tn/?action=download%26mode=render)
+   * SM III: [Variables’ descriptions and Robustness Checks](https://mfr.osf.io/render?url=https://osf.io/chk67/?action=download%26mode=render)
 * Dissemination: [NadaEsGratis](https://nadaesgratis.es/admin/el-legado-del-antiguo-regimen-los-senorios)
 
 
