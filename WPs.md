@@ -18,5 +18,5 @@
 
 [**Gendered cities: Studying urban gender bias through street names**](https://osf.io/b9n4k/) (with Gutiérrez-Mora, D). 2021.
 
-* Dissemination: [Twitter thread](https://twitter.com/OtoPeralias/status/1368181433886535688), [EL PAÍS](https://elpais.com/ciencia/2021-06-30/el-machismo-esta-en-las-calles.html).
+* Dissemination: [Twitter thread](https://twitter.com/OtoPeralias/status/1368181433886535688), [EL PAÍS](https://elpais.com/ciencia/2021-06-30/el-machismo-esta-en-las-calles.html), [mappingdiversity.eu](https://mappingdiversity.eu/).
 
