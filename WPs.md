@@ -10,7 +10,7 @@
 
 
 
-[**The spatial distribution of population in Spain: an anomaly in European perspective**](https://repositorio.bde.es/handle/123456789/13426) (with Gutiérrez, E., [Moral-Benito, E](https://moralbenito.weebly.com/)., and [Ramos, R.](http://www.robertoramosm.eu/)). 2020.
+[**The spatial distribution of population in Spain: an anomaly in European perspective**](https://osf.io/f4de6) (with Gutiérrez, E., [Moral-Benito, E](https://moralbenito.weebly.com/)., and [Ramos, R.](http://www.robertoramosm.eu/)). 2020.
 
 * Dissemination: [NIUS Diario](https://www.niusdiario.es/sociedad/anomalia-europea-espana-vacia-origen-reconquista-causa-poblacion-baja-densidad_18_3006420026.html), [La Razón.](https://www.larazon.es/economia/20210110/6jbova3gyvbcxggjmzc3vhswai.html)
 
