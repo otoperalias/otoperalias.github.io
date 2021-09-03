@@ -1,4 +1,5 @@
 # <span style="color:steelblue"> Publications </span>
+<span style="color:steelblue"> (contact me if you do not have access to some of the papers) </span>
 
 [**Ancient Colonialism and the Economic Geography of the Mediterranean**](https://academic.oup.com/joeg/advance-article/doi/10.1093/jeg/lbaa028/6043095?guestAccessKey=5df7fe12-7201-488b-a282-a9b02ee0a328) (with Chronopoulos, D., Kampanelis, S., and Wilson, J.) 2021. ***Journal of Economic Geography***, lbaa028.
 
