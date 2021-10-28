@@ -24,7 +24,7 @@ Universidad Pablo de Olavide (Seville)
 
 #### CONTACT
 
-&nbsp;&nbsp; Email: [<u>otoperalias@gmail.com</u>](mailto:otoperalias@gmail.com)
+&nbsp;&nbsp; Email: <span style="color:steelblue"> otoperalias[at]gmail.com </span>
 
 &nbsp;&nbsp; Twitter: [@OtoPeralias](https://twitter.com/OtoPeralias)
 
