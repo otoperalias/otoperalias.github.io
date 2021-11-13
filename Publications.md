@@ -1,11 +1,11 @@
 # <span style="color:steelblue"> Publications </span>
 <span style="color:steelblue"> (contact me if you do not have access to some of the papers) </span>
 
-[**Ancient Colonialism and the Economic Geography of the Mediterranean**](https://academic.oup.com/joeg/advance-article/doi/10.1093/jeg/lbaa028/6043095?guestAccessKey=5df7fe12-7201-488b-a282-a9b02ee0a328) (with Chronopoulos, D., Kampanelis, S., and Wilson, J.) 2021. ***Journal of Economic Geography***, lbaa028.
+[**Ancient Colonialism and the Economic Geography of the Mediterranean**](https://academic.oup.com/joeg/advance-article/doi/10.1093/jeg/lbaa028/6043095?guestAccessKey=5df7fe12-7201-488b-a282-a9b02ee0a328) (with Chronopoulos, D., Kampanelis, S., and Wilson, J.) 2021. ***Journal of Economic Geography***, 2021, 21(5): 717–759.
 
 * Dissemination: [Twitter thread](https://twitter.com/OtoPeralias/status/1343498604972044291), [VOXeu.org](https://voxeu.org/article/economic-impact-ancient-colonisation), [Dziennik Gazeta Prawna](https://biznes.gazetaprawna.pl/artykuly/8079833,determinizm-w-historii-kolonizacja-wos.html), [atlantico.fr](https://atlantico.fr/article/decryptage/grecs-etrusques-pheniciens---quand-l-impact-de-colonisations-multimillenaires-se-revele-positif-aujourd-hui-pour-les-zones-concernees-daniel-oto-peralias), [Greek National TV Channel ERT](https://youtu.be/lAYjRQwB-F4).
 
-[**Frontiers, Warfare and Economic Geography: The Case of Spain**](https://doi.org/10.1016/j.jdeveco.2020.102511). ***Journal of Development Economics***. 2020, 146, 102511. ([SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2930860)).
+[**Frontiers, Warfare and Economic Geography: The Case of Spain**](https://doi.org/10.1016/j.jdeveco.2020.102511). ***Journal of Development Economics***, 2020, 146, 102511. ([SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2930860)).
 
 * Dissemination: [Twitter thread](https://twitter.com/OtoPeralias/status/1270290096105938946), [RESmedia briefings](https://www.res.org.uk/resources-page/medieval-origins-of-spain--s-economic-geography.html), [The Long Run (the EHS blog)](https://ehsthelongrun.net/2018/05/22/medieval-origins-of-spains-economic-geography/), [Nada Es Gratis](https://nadaesgratis.es/admin/las-raices-historicas-de-los-patrones-de-poblamiento-en-espana), [NIUS Diario](https://www.niusdiario.es/sociedad/anomalia-europea-espana-vacia-origen-reconquista-causa-poblacion-baja-densidad_18_3006420026.html), [La Voz de Asturias](https://www.lavozdeasturias.es/noticia/asturias/2020/09/18/influyo-reconquista-densidad-poblacion-asturias/00031600450243951465609.htm).
 
