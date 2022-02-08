@@ -18,5 +18,5 @@
 
 [**Gendered cities: Studying urban gender bias through street names**](https://osf.io/b9n4k/) (with Gutiérrez-Mora, D), accepted at [***Environment and Planning B: Urban Analytics and City Science***](https://journals.sagepub.com/home/epb).
 
-* Dissemination: [Twitter thread](https://twitter.com/OtoPeralias/status/1368181433886535688), [EL PAÍS](https://elpais.com/ciencia/2021-06-30/el-machismo-esta-en-las-calles.html), [mappingdiversity.eu](https://mappingdiversity.eu/), [La Nueva España](https://www.lne.es/opinion/2021/11/07/expulsadas-calles-59225313.html), [La Voz de Asturias](https://www.lavozdeasturias.es/noticia/agora/2021/12/23/rebelion-contral-machismu-alcalde-duvieu-so-corporacion/00031640261651396141641.htm).
+* Dissemination: [Twitter thread](https://twitter.com/OtoPeralias/status/1368181433886535688), [EL PAÍS](https://elpais.com/ciencia/2021-06-30/el-machismo-esta-en-las-calles.html), [mappingdiversity.eu](https://mappingdiversity.eu/), [La Nueva España](https://www.lne.es/opinion/2021/11/07/expulsadas-calles-59225313.html), [La Voz de Asturias](https://www.lavozdeasturias.es/noticia/agora/2021/12/23/rebelion-contral-machismu-alcalde-duvieu-so-corporacion/00031640261651396141641.htm), [Diario de Mayorca](https://www.diariodemallorca.es/opinion/2021/11/15/expulsadas-calles-59526392.html).
 
