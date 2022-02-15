@@ -1,7 +1,11 @@
 # <span style="color:steelblue"> Publications </span>
-<span style="color:steelblue"> (contact me if you do not have access to some of the papers) </span>
+<span style="color:steelblue"> (contact me if you need access to any of the papers) </span>
 
-[**Ancient Colonialism and the Economic Geography of the Mediterranean**](https://academic.oup.com/joeg/advance-article/doi/10.1093/jeg/lbaa028/6043095?guestAccessKey=5df7fe12-7201-488b-a282-a9b02ee0a328) (with Chronopoulos, D., Kampanelis, S., and Wilson, J.) 2021. ***Journal of Economic Geography***, 2021, 21(5): 717–759.
+[**Gendered cities: Studying urban gender bias through street names**](https://doi.org/10.1177/23998083211068844) (with Gutiérrez-Mora, D). ***Environment and Planning B: Urban Analytics and City Science***, 2022, doi:10.1177/23998083211068844.
+
+* Dissemination: [Twitter thread](https://twitter.com/OtoPeralias/status/1368181433886535688), [EL PAÍS](https://elpais.com/ciencia/2021-06-30/el-machismo-esta-en-las-calles.html), [mappingdiversity.eu](https://mappingdiversity.eu/), [La Nueva España](https://www.lne.es/opinion/2021/11/07/expulsadas-calles-59225313.html), [La Voz de Asturias](https://www.lavozdeasturias.es/noticia/agora/2021/12/23/rebelion-contral-machismu-alcalde-duvieu-so-corporacion/00031640261651396141641.htm), [Diario de Mallorca](https://www.diariodemallorca.es/opinion/2021/11/15/expulsadas-calles-59526392.html).
+
+[**Ancient Colonialism and the Economic Geography of the Mediterranean**](https://academic.oup.com/joeg/advance-article/doi/10.1093/jeg/lbaa028/6043095?guestAccessKey=5df7fe12-7201-488b-a282-a9b02ee0a328) (with Chronopoulos, D., Kampanelis, S., and Wilson, J.). ***Journal of Economic Geography***, 2021, 21(5): 717–759.
 
 * Dissemination: [Twitter thread](https://twitter.com/OtoPeralias/status/1343498604972044291), [VOXeu.org](https://voxeu.org/article/economic-impact-ancient-colonisation), [Dziennik Gazeta Prawna](https://biznes.gazetaprawna.pl/artykuly/8079833,determinizm-w-historii-kolonizacja-wos.html), [atlantico.fr](https://atlantico.fr/article/decryptage/grecs-etrusques-pheniciens---quand-l-impact-de-colonisations-multimillenaires-se-revele-positif-aujourd-hui-pour-les-zones-concernees-daniel-oto-peralias), [Greek National TV Channel ERT](https://youtu.be/lAYjRQwB-F4).
 
