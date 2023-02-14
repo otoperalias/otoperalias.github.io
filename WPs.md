@@ -7,10 +7,10 @@
    * SM I: [18th-century Spain: A dataset of political institutions and socio-economic variables at the local level](https://mfr.osf.io/render?url=https://osf.io/596tn/?action=download%26mode=render)
    * SM III: [Variables’ descriptions and Robustness Checks](https://mfr.osf.io/render?url=https://osf.io/chk67/?action=download%26mode=render)
 * Dissemination: [NadaEsGratis](https://nadaesgratis.es/admin/el-legado-del-antiguo-regimen-los-senorios)
+   
+  
+[**The spatial distribution of street names: a web app to visualize and download street-name data**](https://osf.io/4v2bx/) (with Carmona-Derqui, D. & Gutiérrez-Mora, D.). 2023. 
 
+* Dissemination: [Twitter thread](https://twitter.com/OtoPeralias/status/1618144217980895238), [UPO press brief](https://www.upo.es/upotec/contenidos/noticias/2023/feb/07/investigadores-de-la-upo-crean-un-portal-web-para-/), [La Vanguardia](https://www.lavanguardia.com/local/sevilla/20230203/8730695/investigadores-upo-crean-portal-web-visualizar-nombres-calles-espana-europa-eeuu.html).
 
-
-[**The spatial distribution of population in Spain: an anomaly in European perspective**](https://osf.io/f4de6) (with Gutiérrez, E., [Moral-Benito, E](https://moralbenito.weebly.com/)., and [Ramos, R.](http://www.robertoramosm.eu/)). 2020.
-
-* Dissemination: [NIUS Diario](https://www.niusdiario.es/sociedad/anomalia-europea-espana-vacia-origen-reconquista-causa-poblacion-baja-densidad_18_3006420026.html), [La Razón.](https://www.larazon.es/economia/20210110/6jbova3gyvbcxggjmzc3vhswai.html)
 
