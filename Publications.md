@@ -1,6 +1,11 @@
 # <span style="color:steelblue"> Publications </span>
 <span style="color:steelblue"> (contact me if you need access to any of the papers) </span>
 
+
+[**The spatial distribution of population in Spain: an anomaly in European perspective**](https://osf.io/f4de6) (with Gutiérrez, E., [Moral-Benito, E](https://moralbenito.weebly.com/)., and [Ramos, R.](http://www.robertoramosm.eu/)). ***Journal of Regional Science***, forthcoming. 
+
+* Dissemination: [NIUS Diario](https://www.niusdiario.es/sociedad/anomalia-europea-espana-vacia-origen-reconquista-causa-poblacion-baja-densidad_18_3006420026.html), [La Razón.](https://www.larazon.es/economia/20210110/6jbova3gyvbcxggjmzc3vhswai.html)
+
 [**Gendered cities: Studying urban gender bias through street names**](https://doi.org/10.1177/23998083211068844) (with Gutiérrez-Mora, D). ***Environment and Planning B: Urban Analytics and City Science***, 2022, doi:10.1177/23998083211068844. ([Pre-print](https://osf.io/b9n4k/)).
 
 * Dissemination: [Gendered Cities-Website](https://en.stnameslab.com/gendered-cities/), [Twitter thread](https://twitter.com/OtoPeralias/status/1368181433886535688), [Press Brief UPO](https://www.upo.es/diario/ciencia/2022/09/el-callejero-espanol-radiografiado-solo-un-127-de-las-calles-tiene-nombre-de-mujer/), [Canal Sur (TV)](https://youtu.be/lpULSbgtWjM), [EL PAÍS](https://elpais.com/ciencia/2021-06-30/el-machismo-esta-en-las-calles.html), [Radio Principado de Asturias RPA](https://youtu.be/SCiFa6zMKjU), [elDiario.es (I)](https://www.eldiario.es/andalucia/radiografia-callejero-espanol-12-7-calles-nombre-mujer_1_9543698.html)... See full list of media coverage [here](https://en.stnameslab.com/media-coverage/).
