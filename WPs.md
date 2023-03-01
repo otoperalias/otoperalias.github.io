@@ -11,6 +11,6 @@
   
 [**The spatial distribution of street names: a web app to visualize and download street-name data**](https://osf.io/4v2bx/) (with Carmona-Derqui, D. & Gutiérrez-Mora, D.). 2023. 
 
-* Dissemination: [Twitter thread](https://twitter.com/OtoPeralias/status/1618144217980895238), [UPO press brief](https://www.upo.es/upotec/contenidos/noticias/2023/feb/07/investigadores-de-la-upo-crean-un-portal-web-para-/), [La Vanguardia](https://www.lavanguardia.com/local/sevilla/20230203/8730695/investigadores-upo-crean-portal-web-visualizar-nombres-calles-espana-europa-eeuu.html).
+* Dissemination: [Twitter thread](https://twitter.com/OtoPeralias/status/1618144217980895238), [UPO press brief](https://www.upo.es/upotec/contenidos/noticias/2023/feb/07/investigadores-de-la-upo-crean-un-portal-web-para-/), [La Vanguardia](https://www.lavanguardia.com/local/sevilla/20230203/8730695/investigadores-upo-crean-portal-web-visualizar-nombres-calles-espana-europa-eeuu.html), [EL PAÍS](https://elpais.com/tecnologia/2023-03-01/los-nombres-de-las-calles-nos-retratan-muchas-virgenes-santos-y-nobles-poca-ciencia-y-menos-mujeres-que-hombres.html).
 
 
