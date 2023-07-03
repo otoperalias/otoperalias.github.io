@@ -1,5 +1,8 @@
 #  <span style="color:steelblue"> Working papers </span>
 
+[**Communal lands and social capital: A case study**](https://osf.io/preprints/socarxiv/k8mzr). 2023.
+
+
 [**Delegating Governmental Authority to Private Actors: Lordships, State Capacity and Development**](https://osf.io/preprints/socarxiv/k8mzr/). 2018 (last version: 2023).
 
 * Supplementary Material:
