@@ -1,14 +1,13 @@
-# <span style="color:steelblue"> Publications </span>
+# <span style="color:steelblue"> Publications </span> 
+### <a href="#econ"> In economics </a>  | <a href="#cultgeo"> In cultural geography </a>
 <span style="color:steelblue"> (contact me if you need access to any of the papers) </span>
 
+
+### <span style="color:steelblue"> <a id="econ">Economics</a> </span>
 
 [**The spatial distribution of population in Spain: an anomaly in European perspective**](https://onlinelibrary.wiley.com/doi/full/10.1111/jors.12638) (with Gutiérrez, E., [Moral-Benito, E](https://moralbenito.weebly.com/)., and [Ramos, R.](http://www.robertoramosm.eu/)). ***Journal of Regional Science***, forthcoming. 
 
 * Dissemination: [Twitter thread](https://twitter.com/OtoPeralias/status/1633040749150216192), [El Confidencial](https://www.elconfidencial.com/espana/2023-03-16/espana-vacia-no-estuvo-llena-excepcionalidad_3592855), [Nada es Gratis](https://nadaesgratis.es/admin/spain-is-different-la-anomalia-espanola-en-la-distribucion-espacial-de-la-poblacion), [NIUS Diario](https://www.niusdiario.es/sociedad/anomalia-europea-espana-vacia-origen-reconquista-causa-poblacion-baja-densidad_18_3006420026.html), [La Razón.](https://www.larazon.es/economia/20210110/6jbova3gyvbcxggjmzc3vhswai.html), [vozpopuli](https://www.vozpopuli.com/opinion/ciudad-quince-minutos-ya-existe.html).
-
-[**Gendered cities: Studying urban gender bias through street names**](https://doi.org/10.1177/23998083211068844) (with Gutiérrez-Mora, D). ***Environment and Planning B: Urban Analytics and City Science***, 2022, doi:10.1177/23998083211068844. ([Pre-print](https://osf.io/b9n4k/)).
-
-* Dissemination: [Gendered Cities-Website](https://en.stnameslab.com/gendered-cities/), [Twitter thread](https://twitter.com/OtoPeralias/status/1368181433886535688), [Press Brief UPO](https://www.upo.es/diario/ciencia/2022/09/el-callejero-espanol-radiografiado-solo-un-127-de-las-calles-tiene-nombre-de-mujer/), [Canal Sur (TV)](https://youtu.be/lpULSbgtWjM), [EL PAÍS](https://elpais.com/ciencia/2021-06-30/el-machismo-esta-en-las-calles.html), [Radio Principado de Asturias RPA](https://youtu.be/SCiFa6zMKjU), [elDiario.es (I)](https://www.eldiario.es/andalucia/radiografia-callejero-espanol-12-7-calles-nombre-mujer_1_9543698.html)... See full list of media coverage [here](https://en.stnameslab.com/media-coverage/).
 
 [**Ancient Colonialism and the Economic Geography of the Mediterranean**](https://academic.oup.com/joeg/advance-article/doi/10.1093/jeg/lbaa028/6043095?guestAccessKey=5df7fe12-7201-488b-a282-a9b02ee0a328) (with Chronopoulos, D., Kampanelis, S., and Wilson, J.). ***Journal of Economic Geography***, 2021, 21(5): 717–759.
 
@@ -17,12 +16,6 @@
 [**Frontiers, Warfare and Economic Geography: The Case of Spain**](https://doi.org/10.1016/j.jdeveco.2020.102511). ***Journal of Development Economics***, 2020, 146, 102511. ([SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2930860)).
 
 * Dissemination: [Twitter thread](https://twitter.com/OtoPeralias/status/1270290096105938946), [RESmedia briefings](https://www.res.org.uk/resources-page/medieval-origins-of-spain--s-economic-geography.html), [The Long Run (the EHS blog)](https://ehsthelongrun.net/2018/05/22/medieval-origins-of-spains-economic-geography/), [Nada Es Gratis](https://nadaesgratis.es/admin/las-raices-historicas-de-los-patrones-de-poblamiento-en-espana), [NIUS Diario](https://www.niusdiario.es/sociedad/anomalia-europea-espana-vacia-origen-reconquista-causa-poblacion-baja-densidad_18_3006420026.html), [La Voz de Asturias](https://www.lavozdeasturias.es/noticia/asturias/2020/09/18/influyo-reconquista-densidad-poblacion-asturias/00031600450243951465609.htm).
-
-[**What Do Street Names Tell Us? The 'City-Text' as Socio-Cultural Data**](https://doi.org/10.1093/jeg/lbx030). ***Journal of Economic Geography***, 2018, 18 (1): 187–211.  
-
-* An application to UK street-name data [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3063381)
-
-* Dissemination: [Press release](https://news.st-andrews.ac.uk/archive/street-names-indicate-how-scottish-you-feel/), [Scottish Daily Express](https://www.express.co.uk/scotland/880107/Street-name-Scotland-research-academics), [Scottish Daily Mail](https://www.pressreader.com/uk/scottish-daily-mail/20171116/281874413697570), [Scottish Express](https://www.express.co.uk/scotland/880107/Street-name-Scotland-research-academics), [The Times](https://www.thetimes.co.uk/article/a-street-name-can-affect-how-scottish-you-feel-766knbjj8), [The Scotsman](https://www.scotsman.com/news/uk-news/research-finds-your-street-name-shows-how-scottish-you-feel-594770), [The Herald](https://www.heraldscotland.com/news/15662442.st-andrews-university-research-shows-british-street-names-make-residents-feel-less-scottish/), [The Courier](https://www.thecourier.co.uk/fp/news/local/fife/545546/british-street-names-influence-scottish-identity/), [NadaEsGratis](https://nadaesgratis.es/admin/que-nos-dicen-los-nombres-de-las-calles-y-por-que-es-interesante-para-las-ciencias-sociales), [elDiario.es](https://www.eldiario.es/economia/bbva-logro-llamar-calle-azul-vias-cambiaron-nombre-motivos-economicos_1_6151703.html).
 
 [**Historical Frontiers and the Rise of Inequality. The Case of the Frontier of Granada**](https://doi.org/10.1093/jeea/jvw004)” (with Romero-Ávila D.), ***Journal of the European Economic Association***, 2017, 15 (1): 54-98.
 
@@ -45,3 +38,20 @@
 [**Does Fiscal Decentralization Mitigate the Adverse Effects of Corruption on Public Deficits?**](https://doi.org/10.1016/j.ejpoleco.2013.07.005 "Persistent link using digital object identifier") (with Romero-Ávila D. and Usabiaga, C.), ***European Journal of Political Economy***, 2013, 32, 205-231.
 
 [**Tracing the Link between Government Size and Growth: The Role of Public Sector Quality**](https://doi.org/10.1111/kykl.12019) (with Romero-Ávila D.), ***Kyklos***, 2013, 66 (2), 229-255.
+
+
+<h3 id="cultgeo">Cultural geography</h2>
+
+[**Tabulating and visualizing street-name data in the US and Europe**](https://journals.sagepub.com/doi/10.1177/23998083231190711) (with Carmona-Derqui, D. & Gutiérrez-Mora, D.). ***Environment and Planning B: Urban Analytics and City Science***, 2023. 
+
+* Dissemination: [Twitter thread](https://twitter.com/OtoPeralias/status/1618144217980895238), [UPO press brief](https://www.upo.es/upotec/contenidos/noticias/2023/feb/07/investigadores-de-la-upo-crean-un-portal-web-para-/), [La Vanguardia](https://www.lavanguardia.com/local/sevilla/20230203/8730695/investigadores-upo-crean-portal-web-visualizar-nombres-calles-espana-europa-eeuu.html), [EL PAÍS](https://elpais.com/tecnologia/2023-03-01/los-nombres-de-las-calles-nos-retratan-muchas-virgenes-santos-y-nobles-poca-ciencia-y-menos-mujeres-que-hombres.html), [Canal Sur Radio](https://youtu.be/_imh_ciU05g), [El Periódico de Aragón](https://www.elperiodicodearagon.com/aragon/2023/03/02/reflejado-aragon-callejero-espanol-europeo-83986293.html), [Cope](https://www.cope.es/actualidad/espana/noticias/mapa-interactivo-permite-ver-calle-cambiado-nombre-largo-historia-como-llamaba-20230302_2582303).
+
+[**Gendered cities: Studying urban gender bias through street names**](https://doi.org/10.1177/23998083211068844) (with Gutiérrez-Mora, D). ***Environment and Planning B: Urban Analytics and City Science***, 2022, doi:10.1177/23998083211068844. ([Pre-print](https://osf.io/b9n4k/)).
+
+* Dissemination: [Gendered Cities-Website](https://en.stnameslab.com/gendered-cities/), [Twitter thread](https://twitter.com/OtoPeralias/status/1368181433886535688), [Press Brief UPO](https://www.upo.es/diario/ciencia/2022/09/el-callejero-espanol-radiografiado-solo-un-127-de-las-calles-tiene-nombre-de-mujer/), [Canal Sur (TV)](https://youtu.be/lpULSbgtWjM), [EL PAÍS](https://elpais.com/ciencia/2021-06-30/el-machismo-esta-en-las-calles.html), [Radio Principado de Asturias RPA](https://youtu.be/SCiFa6zMKjU), [elDiario.es (I)](https://www.eldiario.es/andalucia/radiografia-callejero-espanol-12-7-calles-nombre-mujer_1_9543698.html)... See full list of media coverage [here](https://en.stnameslab.com/media-coverage/).
+
+[**What Do Street Names Tell Us? The 'City-Text' as Socio-Cultural Data**](https://doi.org/10.1093/jeg/lbx030). ***Journal of Economic Geography***, 2018, 18 (1): 187–211.  
+
+* An application to UK street-name data [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3063381)
+
+* Dissemination: [Press release](https://news.st-andrews.ac.uk/archive/street-names-indicate-how-scottish-you-feel/), [Scottish Daily Express](https://www.express.co.uk/scotland/880107/Street-name-Scotland-research-academics), [Scottish Daily Mail](https://www.pressreader.com/uk/scottish-daily-mail/20171116/281874413697570), [Scottish Express](https://www.express.co.uk/scotland/880107/Street-name-Scotland-research-academics), [The Times](https://www.thetimes.co.uk/article/a-street-name-can-affect-how-scottish-you-feel-766knbjj8), [The Scotsman](https://www.scotsman.com/news/uk-news/research-finds-your-street-name-shows-how-scottish-you-feel-594770), [The Herald](https://www.heraldscotland.com/news/15662442.st-andrews-university-research-shows-british-street-names-make-residents-feel-less-scottish/), [The Courier](https://www.thecourier.co.uk/fp/news/local/fife/545546/british-street-names-influence-scottish-identity/), [NadaEsGratis](https://nadaesgratis.es/admin/que-nos-dicen-los-nombres-de-las-calles-y-por-que-es-interesante-para-las-ciencias-sociales), [elDiario.es](https://www.eldiario.es/economia/bbva-logro-llamar-calle-azul-vias-cambiaron-nombre-motivos-economicos_1_6151703.html).
