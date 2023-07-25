@@ -1,7 +1,7 @@
 # <span style="color:steelblue"> Publications </span> 
 ### <a href="#econ"> In economics </a>  | <a href="#cultgeo"> In cultural geography </a>
 <span style="color:steelblue"> (contact me if you need access to any of the papers) </span>
-
+<br /> 
 
 ### <span style="color:steelblue"> <a id="econ">Economics</a> </span>
 
@@ -38,9 +38,9 @@
 [**Does Fiscal Decentralization Mitigate the Adverse Effects of Corruption on Public Deficits?**](https://doi.org/10.1016/j.ejpoleco.2013.07.005 "Persistent link using digital object identifier") (with Romero-Ávila D. and Usabiaga, C.), ***European Journal of Political Economy***, 2013, 32, 205-231.
 
 [**Tracing the Link between Government Size and Growth: The Role of Public Sector Quality**](https://doi.org/10.1111/kykl.12019) (with Romero-Ávila D.), ***Kyklos***, 2013, 66 (2), 229-255.
+<br /> 
 
-
-<h3 id="cultgeo">Cultural geography</h2>
+### <span style="color:steelblue"> <a id="cultgeo">Cultural geography</a> </span>
 
 [**Tabulating and visualizing street-name data in the US and Europe**](https://journals.sagepub.com/doi/10.1177/23998083231190711) (with Carmona-Derqui, D. & Gutiérrez-Mora, D.). ***Environment and Planning B: Urban Analytics and City Science***, 2023. 
 
