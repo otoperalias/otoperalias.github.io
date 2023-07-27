@@ -41,7 +41,7 @@
 <br /> 
 <br /> 
 
-### <span style="color:steelblue"> <a id="cultgeo">Cultural geography</a> </span>
+### <span style="color:steelblue"> <a id="cultgeo">Political/cultural geography</a> </span>
 
 [**Tabulating and visualizing street-name data in the US and Europe**](https://journals.sagepub.com/doi/10.1177/23998083231190711) (with Carmona-Derqui, D. & Gutiérrez-Mora, D.). ***Environment and Planning B: Urban Analytics and City Science***, 2023. 
 
