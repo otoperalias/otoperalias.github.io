@@ -1,5 +1,5 @@
 # <span style="color:steelblue"> Publications </span> 
-### <a href="#econ"> In economics </a>  | <a href="#cultgeo"> In cultural geography </a>
+### <a href="#econ"> In economics </a>  | <a href="#cultgeo"> In geography </a>
 <span style="color:steelblue"> (contact me if you need access to any of the papers) </span>
 <br /> 
 <br /> 
