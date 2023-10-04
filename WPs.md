@@ -13,3 +13,5 @@
 [**Communal lands and social capital: A case study**](https://osf.io/eyx2d/). 2023.
 
 * Dissemination: [Twitter thread](https://twitter.com/OtoPeralias/status/1676908324053237763), [Nada es Gratis](https://nadaesgratis.es/admin/tierras-comunales-y-capital-social-en-un-pueblo-andaluz-las-hazas-de-suerte-de-vejer).
+
+[**Land Concentration and Mega Photovoltaic Plants**](https://osf.io/hakt5/). 2023 (with [D. Cuberes](https://sites.google.com/site/davcuberes/)).
