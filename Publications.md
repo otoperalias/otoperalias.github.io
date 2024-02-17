@@ -5,8 +5,8 @@
 <br /> 
 ### <span style="color:steelblue"> <a id="econ">Economics</a> </span>
 
-[**The spatial distribution of population in Spain: an anomaly in European perspective**](https://onlinelibrary.wiley.com/doi/full/10.1111/jors.12638) (with Gutiérrez, E., [Moral-Benito, E](https://moralbenito.weebly.com/)., and [Ramos, R.](http://www.robertoramosm.eu/)). ***Journal of Regional Science***, forthcoming. 
-
+[**The spatial distribution of population in Spain: an anomaly in European perspective**](https://onlinelibrary.wiley.com/doi/full/10.1111/jors.12638) (with Gutiérrez, E., [Moral-Benito, E](https://moralbenito.weebly.com/)., and [Ramos, R.](http://www.robertoramosm.eu/)). ***Journal of Regional Science***, forthcoming.
+* [*Replication of results with the EUROSTAT CENSUS GRID 2021*](https://github.com/otoperalias/otoperalias.github.io/blob/main/files/2021%20edition.pdf).
 * Dissemination: [Twitter thread (1)](https://twitter.com/OtoPeralias/status/1755194333559488781), [Twitter thread (2)](https://twitter.com/OtoPeralias/status/1633040749150216192), [El Confidencial](https://www.elconfidencial.com/espana/2023-03-16/espana-vacia-no-estuvo-llena-excepcionalidad_3592855), [Nada es Gratis](https://nadaesgratis.es/admin/spain-is-different-la-anomalia-espanola-en-la-distribucion-espacial-de-la-poblacion), [NIUS Diario](https://www.niusdiario.es/sociedad/anomalia-europea-espana-vacia-origen-reconquista-causa-poblacion-baja-densidad_18_3006420026.html), [La Razón](https://www.larazon.es/economia/20210110/6jbova3gyvbcxggjmzc3vhswai.html), [vozpopuli](https://www.vozpopuli.com/opinion/ciudad-quince-minutos-ya-existe.html), [Géomètre](https://github.com/otoperalias/otoperalias.github.io/blob/main/files/Espagne%20pays%20appartements%20Marti%20Blancho.pdf).
 
 [**Ancient Colonialism and the Economic Geography of the Mediterranean**](https://academic.oup.com/joeg/advance-article/doi/10.1093/jeg/lbaa028/6043095?guestAccessKey=5df7fe12-7201-488b-a282-a9b02ee0a328) (with Chronopoulos, D., Kampanelis, S., and Wilson, J.). ***Journal of Economic Geography***, 2021, 21(5): 717–759.
