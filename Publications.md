@@ -19,7 +19,7 @@
 
 [**Historical Frontiers and the Rise of Inequality. The Case of the Frontier of Granada**](https://doi.org/10.1093/jeea/jvw004)” (with Romero-Ávila D.), ***Journal of the European Economic Association***, 2017, 15 (1): 54-98.
 
-* Dissemination: [IDEAL.es](https://www.ideal.es/granada/201702/16/estudio-dice-frontera-reino-20170216181445.html), [Granada Hoy](https://www.granadahoy.com/vivir/desigual-herencia-BReino-NazariB_0_1112588801.html), [La Vanguardia](https://www.lavanguardia.com/local/sevilla/20170216/4273534379/estudio-constata-frontera-reino-de-granada-genero-desigualdades-en-andalucia.html), [Expansión](https://drive.google.com/file/d/17oZomPe-HTcHzFBLk7JRmagiX4Oq5vSj/view?usp=sharing), [AULA MAGNA](https://www.aulamagna.com.es/analizan-los-efectos-de-la-frontera-de-granada/).
+* Dissemination: [IDEAL.es](https://www.ideal.es/granada/201702/16/estudio-dice-frontera-reino-20170216181445.html), [Granada Hoy](https://www.granadahoy.com/vivir/desigual-herencia-BReino-NazariB_0_1112588801.html), [La Vanguardia](https://www.lavanguardia.com/local/sevilla/20170216/4273534379/estudio-constata-frontera-reino-de-granada-genero-desigualdades-en-andalucia.html), [Expansión](https://github.com/otoperalias/otoperalias.github.io/blob/main/files/Cita%20expansi%C3%B3n%20JEEA.pdf), [AULA MAGNA](https://www.aulamagna.com.es/analizan-los-efectos-de-la-frontera-de-granada/).
 
 [**The Consequences of Persistent Inequality on Social Capital: A Municipal-Level Analysis of Blood Donation Data**](https://doi.org/10.1016/j.econlet.2016.11.037) (with Romero-Ávila D.), ***Economics Letters***, 2017, 151: 53-57. ([SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2876530)).
 
