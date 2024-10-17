@@ -17,3 +17,5 @@
 [**Land Concentration and Mega Photovoltaic Plants**](https://osf.io/hakt5/). 2023 (with [D. Cuberes](https://sites.google.com/site/davcuberes/)).
 
 * Dissemination: [NadaEsGratis](https://nadaesgratis.es/admin/concentracion-de-la-tierra-y-mega-plantas-solares).
+
+[**The power of urban naming policies: an analysis of the influence of street names**](https://github.com/otoperalias/otoperalias.github.io/blob/main/files/abstract4web.docx.pdf). 2024 (with D. Carmona-Derqui & D. Gutiérrez-Mora)
