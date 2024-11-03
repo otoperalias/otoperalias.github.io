@@ -18,4 +18,4 @@
 
 * Dissemination: [NadaEsGratis](https://nadaesgratis.es/admin/concentracion-de-la-tierra-y-mega-plantas-solares).
 
-[**The power of commemorative policies: the effect of street names on knowledge, judgement, and attitudes**](https://github.com/otoperalias/otoperalias.github.io/blob/main/files/abstract4web.pdf). 2024 (with D. Carmona-Derqui & D. Gutiérrez-Mora)
+[**The power of commemorative policies: Do street names influence people?**](https://osf.io/agr27/). 2024 (with D. Carmona-Derqui & D. Gutiérrez-Mora)
