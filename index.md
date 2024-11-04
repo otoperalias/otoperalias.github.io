@@ -30,7 +30,7 @@ Universidad Pablo de Olavide (Seville)
 
 &nbsp;&nbsp; Email: <span style="color:steelblue"> otoperalias[at]gmail.com </span>
 
-&nbsp;&nbsp; Twitter: [@OtoPeralias](https://twitter.com/OtoPeralias)
+&nbsp;&nbsp; BlueSky: [@otoperalias.bsky.social](https://bsky.app/profile/otoperalias.bsky.social)  | Twitter: [@OtoPeralias](https://twitter.com/OtoPeralias)
 
 &nbsp;&nbsp; Universidad Pablo de Olavide; Ctra. de Utrera, Km. 1, 41013 Seville, Spain
 
