@@ -43,7 +43,7 @@
 
 ### <span style="color:steelblue"> <a id="cultgeo">Political/cultural geography</a> </span>
 
-[**Do women commemorate women? How gender and ideology affect decisions on naming female streets**](https://osf.io/preprints/socarxiv/r6wnm) (with Caballero-Cordero, V. & Carmona-Derqui, D.). ***Political Geography***, forthcoming.  
+[**Do women commemorate women? How gender and ideology affect decisions on naming female streets**](https://www.sciencedirect.com/science/article/pii/S0962629824001938) (with Caballero-Cordero, V. & Carmona-Derqui, D.). ***Political Geography***, 2025, 116 (103244).  
 
 [**Tabulating and visualizing street-name data in the US and Europe**](https://journals.sagepub.com/doi/10.1177/23998083231190711) (with Carmona-Derqui, D. & Gutiérrez-Mora, D.). ***Environment and Planning B: Urban Analytics and City Science***, 2023. 
 
