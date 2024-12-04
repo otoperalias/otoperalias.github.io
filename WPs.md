@@ -20,4 +20,4 @@
 
 [**The power of commemorative policies: Do street names influence people?**](https://osf.io/agr27/) 2024 (with D. Carmona-Derqui & D. Gutiérrez-Mora)
 
-* Dissemination: [Thread](https://bsky.app/profile/otoperalias.bsky.social/post/3la6sbrj2ql26)
+* Dissemination: [Thread](https://bsky.app/profile/otoperalias.bsky.social/post/3la6sbrj2ql26), [Podcast (with AI)](https://www.youtube.com/watch?v=OSJyipDcxtM).
