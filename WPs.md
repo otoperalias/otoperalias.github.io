@@ -1,7 +1,7 @@
 #  <span style="color:steelblue"> Working papers </span>
 
 
-[**Delegating Governmental Authority to Private Actors: Lordships, State Capacity and Development**](https://osf.io/preprints/socarxiv/k8mzr/). 2018 (last version: 2023).
+[**Delegating Governmental Authority to Private Actors: Lordships, State Capacity and Development**](https://osf.io/preprints/socarxiv/k8mzr/). Revised version 2024. 
 
 * Supplementary Material:
    * SM I: [Extended Historical and Institutional Background](https://osf.io/7tazv)
