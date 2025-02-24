@@ -20,7 +20,6 @@ Universidad Pablo de Olavide (Seville)
 
 * [STNAMES LAB](https://en.stnameslab.com/)
 
-* [Other](https://otoperalias.github.io/Other)
 
 #### TEACHING
 
