@@ -6,7 +6,7 @@
 ### <span style="color:steelblue"> <a id="econ">Economics</a> </span>
 
 [**Delegating governmental authority to private actors: Lordships, state capacity and development**](https://osf.io/preprints/socarxiv/k8mzr/). ***Explorations in Economic History***, forthcoming.
-* Project's page: [**Lordships**](https://otoperalias.github.io/Lordships/)
+* Project's page: [Lordships](https://otoperalias.github.io/Lordships/)
 * Dissemination: [NadaEsGratis](https://nadaesgratis.es/admin/el-legado-del-antiguo-regimen-los-senorios), [Twitter thread](https://twitter.com/OtoPeralias/status/1669264108233846795)
 
 [**The spatial distribution of population in Spain: an anomaly in European perspective**](https://onlinelibrary.wiley.com/doi/full/10.1111/jors.12638) (with Gutiérrez, E., [Moral-Benito, E](https://moralbenito.weebly.com/)., and [Ramos, R.](http://www.robertoramosm.eu/)). ***Journal of Regional Science***, 2023, 63(3): 728-750.
