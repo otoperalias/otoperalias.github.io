@@ -5,6 +5,10 @@
 <br /> 
 ### <span style="color:steelblue"> <a id="econ">Economics</a> </span>
 
+[**Delegating governmental authority to private actors: Lordships, state capacity and development**](https://osf.io/preprints/socarxiv/k8mzr/). ***Explorations in Economic History***, forthcoming.
+* Project's page: [**Lordships**](https://otoperalias.github.io/Lordships/)
+* Dissemination: [NadaEsGratis](https://nadaesgratis.es/admin/el-legado-del-antiguo-regimen-los-senorios), [Twitter thread](https://twitter.com/OtoPeralias/status/1669264108233846795)
+
 [**The spatial distribution of population in Spain: an anomaly in European perspective**](https://onlinelibrary.wiley.com/doi/full/10.1111/jors.12638) (with Gutiérrez, E., [Moral-Benito, E](https://moralbenito.weebly.com/)., and [Ramos, R.](http://www.robertoramosm.eu/)). ***Journal of Regional Science***, 2023, 63(3): 728-750.
 * [*2021 EDITION: Replication of results with the EUROSTAT CENSUS GRID 2021*](https://github.com/otoperalias/otoperalias.github.io/blob/main/files/2021%20edition.pdf).
 * Dissemination: [Twitter thread (1)](https://twitter.com/OtoPeralias/status/1755194333559488781), [Twitter thread (2)](https://twitter.com/OtoPeralias/status/1633040749150216192), [El Confidencial](https://www.elconfidencial.com/espana/2023-03-16/espana-vacia-no-estuvo-llena-excepcionalidad_3592855), [Nada es Gratis](https://nadaesgratis.es/admin/spain-is-different-la-anomalia-espanola-en-la-distribucion-espacial-de-la-poblacion), [NIUS Diario](https://www.niusdiario.es/sociedad/anomalia-europea-espana-vacia-origen-reconquista-causa-poblacion-baja-densidad_18_3006420026.html), [La Razón](https://www.larazon.es/economia/20210110/6jbova3gyvbcxggjmzc3vhswai.html), [vozpopuli](https://www.vozpopuli.com/opinion/ciudad-quince-minutos-ya-existe.html), [Géomètre](https://github.com/otoperalias/otoperalias.github.io/blob/main/files/Espagne%20pays%20appartements%20Marti%20Blancho.pdf), [La Razón](https://www.larazon.es/economia/espana-vacia-pero-suelo-vivienda_20250202679b60ed797cbb00013af7b9.html).
