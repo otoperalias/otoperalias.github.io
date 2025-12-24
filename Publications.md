@@ -5,7 +5,7 @@
 <br /> 
 ### <span style="color:steelblue"> <a id="econ">Economics</a> </span>
 
-[**Delegating governmental authority to private actors: Lordships, state capacity and development**](https://doi.org/10.1016/j.eeh.2025.101737). ***Explorations in Economic History***, forthcoming.
+[**Delegating governmental authority to private actors: Lordships, state capacity and development**](https://doi.org/10.1016/j.eeh.2025.101737). ***Explorations in Economic History***, 2026, Vol. 99, 101737.
 * Project's page: [Lordships](https://otoperalias.github.io/Lordships/)
 * Dissemination: [NadaEsGratis](https://nadaesgratis.es/admin/el-legado-del-antiguo-regimen-los-senorios), [Twitter thread](https://twitter.com/OtoPeralias/status/1669264108233846795)
 
