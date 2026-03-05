@@ -7,7 +7,7 @@
 
 [**Delegating governmental authority to private actors: Lordships, state capacity and development**](https://doi.org/10.1016/j.eeh.2025.101737). ***Explorations in Economic History***, 2026, Vol. 99, 101737.
 * Project's page: [Lordships](https://otoperalias.github.io/Lordships/)
-* Dissemination: [NadaEsGratis](https://nadaesgratis.es/admin/el-legado-del-antiguo-regimen-los-senorios), [Twitter thread](https://twitter.com/OtoPeralias/status/1669264108233846795)
+* Dissemination: [The Conversation](https://doi.org/10.64628/AAO.sanwqcrj4), [NadaEsGratis 2026](https://nadaesgratis.es/admin/senorios-capacidad-estatal-y-desarrollo-economico), [Twitter thread](https://twitter.com/OtoPeralias/status/1669264108233846795), [NadaEsGratis 2018](https://nadaesgratis.es/admin/el-legado-del-antiguo-regimen-los-senorios)
 
 [**The spatial distribution of population in Spain: an anomaly in European perspective**](https://onlinelibrary.wiley.com/doi/full/10.1111/jors.12638) (with Gutiérrez, E., [Moral-Benito, E](https://moralbenito.weebly.com/)., and [Ramos, R.](http://www.robertoramosm.eu/)). ***Journal of Regional Science***, 2023, 63(3): 728-750.
 * [*2021 EDITION: Replication of results with the EUROSTAT CENSUS GRID 2021*](https://github.com/otoperalias/otoperalias.github.io/blob/main/files/2021%20edition.pdf).
