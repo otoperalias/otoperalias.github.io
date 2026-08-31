@@ -13,7 +13,4 @@
 
 <!-- * Dissemination: [Thread](https://bsky.app/profile/otoperalias.bsky.social/post/3la6sbrj2ql26), [Podcast (with AI)](https://www.youtube.com/watch?v=OSJyipDcxtM). -->
 
-
-#  <span style="color:steelblue"> Work in Progress </span>
-
-**Historical Legacies and Regional Solidarity** (with Martín Fernández) (RCT implementation phase)
+[**Historical Legacies and Preferences for Inter-Regional Redistribution**](https://afosterri.org/jdepreresults/sample-page/) (with Martín Fernández). *Accepted, Pre-Results Review, at the Journal of Development Economics*.
