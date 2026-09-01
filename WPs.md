@@ -1,6 +1,9 @@
 #  <span style="color:steelblue"> Working papers </span>
 
 
+[**Historical Legacies and Preferences for Inter-Regional Redistribution**](https://afosterri.org/jdepreresults/sample-page/) (with Martín Fernández). *Accepted, pre-results review, at the **Journal of Development Economics***.
+
+
 [**Communal resources, social capital, and moral boundaries: A case study**](https://osf.io/eyx2d/). 2023.
 
 * Dissemination: [Twitter thread](https://twitter.com/OtoPeralias/status/1676908324053237763), [Nada es Gratis](https://nadaesgratis.es/admin/tierras-comunales-y-capital-social-en-un-pueblo-andaluz-las-hazas-de-suerte-de-vejer).
@@ -13,4 +16,3 @@
 
 <!-- * Dissemination: [Thread](https://bsky.app/profile/otoperalias.bsky.social/post/3la6sbrj2ql26), [Podcast (with AI)](https://www.youtube.com/watch?v=OSJyipDcxtM). -->
 
-[**Historical Legacies and Preferences for Inter-Regional Redistribution**](https://afosterri.org/jdepreresults/sample-page/) (with Martín Fernández). *Accepted, Pre-Results Review, at the Journal of Development Economics*.
