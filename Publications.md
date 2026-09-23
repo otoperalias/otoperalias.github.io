@@ -47,6 +47,8 @@
 
 ### <span style="color:steelblue"> <a id="cultgeo">Political/cultural geography</a> </span>
 
+[**Does Naming Shape Knowing? Commemorative Street Names and Residents’ Knowledge, Opinion and Attitudes in Spain**](https://) (with Gutiérrez-Mora, D). ***Annals of the American Association of Geographers***, forthcoming.
+
 [**Do women commemorate women? How gender and ideology affect decisions on naming female streets**](https://www.sciencedirect.com/science/article/pii/S0962629824001938) (with Caballero-Cordero, V. & Carmona-Derqui, D.). ***Political Geography***, 2025, 116 (103244).  
 
 * Dissemination: [Bsky thread](https://bsky.app/profile/otoperalias.bsky.social/post/3lcfdd6dfa22w)
